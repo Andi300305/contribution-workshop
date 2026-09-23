@@ -1,4 +1,5 @@
 * chinmay
 * Misbah
+* Smit
 * Ishika
 
